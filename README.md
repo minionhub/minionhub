@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   <h1>WELCOME TO MY GITHUB</h1>
 </div>
 
@@ -15,8 +16,7 @@ Contact me <b>email</b>: minionhub.dev@gmail.com
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <table><tr><td valign="top" width="50%">
   
   ### Frontend  
