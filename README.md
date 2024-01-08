@@ -15,8 +15,6 @@ demands.
 Contact me <b>email</b>: minionhub.dev@gmail.com 
 <br/>
 <br/>
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <table><tr><td valign="top" width="50%">
   
   ### Frontend  
