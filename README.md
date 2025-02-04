@@ -5,7 +5,7 @@
 
 ### <div align="center"> 🚀 minionhub - Senior Software Developer 🚀</div>  
 
-Bringing more than 12 years of experience leading website design projects,
+Bringing more than 10+ years of experience leading website design projects,
 including gathering user requirements, producing code, creating mockups, and
 enhancing designs. Focused on creating clean, robust code with exceptional
 security. Achieves compatibility targets while meeting and exceeding customer
